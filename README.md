@@ -1,2 +1,2 @@
 # Mangusten
-WAS LOS??
+Das ist das Repository der MangustenMafia
